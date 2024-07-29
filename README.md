@@ -41,7 +41,7 @@ Ensure you have the following installed:
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Acknowledgments
+## Acknowledgments
 Climate Resilience Project team at University of Georgia for their guidance and support throughout the project.
 Community members for their engagement and invaluable input.
 
