@@ -38,3 +38,14 @@ Ensure you have the following installed:
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/Nilkanth-08/Georgia-Climate-Resilience-Project.git
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Acknowledgments
+Climate Resilience Project team at University of Georgia for their guidance and support throughout the project.
+Community members for their engagement and invaluable input.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+This version of the README provides a comprehensive view of the project, detailing the specific methodologies used in the analysis, the Python libraries involved, and how the project's files are organized. Adjust the specifics according to the actual content and structure of your project repository.
+
